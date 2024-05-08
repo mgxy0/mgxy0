@@ -1,8 +1,6 @@
 # Welcome to my page!
 
 ∃!
-** ~ tempus fugit **
-
 
 
 if you like electronic music, here you can listen my works : 
