@@ -1,7 +1,7 @@
-**Welcome to my page!**
+# Welcome to my page!
 
 ∃!
-~ tempus fugit
+# ~ tempus fugit
 
 if you like electronic music, here you can listen my works : 
 
