@@ -32,7 +32,7 @@
         <img src="https://github.com/hundredrabbits/Orca/raw/master/resources/icons/64x64.png" alt="orca" width="40" height="40" style="margin-right: 20px;"/>
     </a>
     <a href="https://cycling74.com/products/max" target="_blank">
-        <img src="https://github.com/andreigec/github-icons/blob/master/maxmsp.png?raw=true" alt="max/msp" width="40" height="40" style="margin-right: 20px;"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Max_logo.png" alt="max/msp" width="40" height="40" style="margin-right: 20px;"/>
     </a>
 </p>
 
