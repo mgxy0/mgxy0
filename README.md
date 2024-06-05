@@ -8,9 +8,11 @@ Hi! I'm Marco from Venezia, a little presentation... interested in technology, o
 
 ## Languages and Softwares :
 
-Languages : [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,java,js,ruby,py,rust,powershell)](https://skillicons.dev)
-Softwares : [![My Skills](https://skillicons.dev/icons?i=atom,git,github,ableton)](https://skillicons.dev)
-Os : [![My Skills](https://skillicons.dev/icons?i=linux,bsd,debian,apple,windows)](https://skillicons.dev)
+- Languages : [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,java,js,ruby,py,rust,powershell)](https://skillicons.dev)
+
+- Softwares : [![My Skills](https://skillicons.dev/icons?i=atom,git,github,ableton)](https://skillicons.dev)
+
+- Os : [![My Skills](https://skillicons.dev/icons?i=linux,bsd,debian,apple,windows)](https://skillicons.dev)
 
 
 if you like electronic music, here you can listen my works : 
