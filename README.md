@@ -4,7 +4,7 @@
 
 24 / 
 
-Hi! I'm Marco from Venezia, a little presentation... interested in technology, operating systems, programming languages, social engineering, cryptography, technological design, mountaineering, nature, cooking, woodwork, electronic/idm/acid music (I compose with a Moog mother32, tr-06, Novation LaunchControlXL and a small modular system using Orca in combination with Ableton Live).
+Hi! I'm Marco from Venezia, a little presentation... interested in technology, operating systems, programming languages, social engineering, cryptography, technological design, mountaineering, nature, cooking, woodwork, movies and electronic/idm/acid music (I compose with a Moog mother32, tr-06, Novation LaunchControlXL and a small modular system using Orca in combination with Ableton Live).
 
 if you like electronic music, here you can listen my works : 
 
