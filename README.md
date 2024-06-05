@@ -8,12 +8,20 @@ Hi! I'm Marco from Venezia, a little presentation... interested in technology, o
 
 ## Languages and Softwares :
 
-- Languages :   [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,java,js,ruby,py,rust,powershell)](https://skillicons.dev)
+<div style="display: flex; align-items: center;">
+    <span class="icon">Languages :</span>
+    <span>[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,java,js,ruby,py,rust,powershell)](https://skillicons.dev)</span>
+</div>
 
-- Softwares :   [![My Skills](https://skillicons.dev/icons?i=atom,git,github,ableton)](https://skillicons.dev)
+<div style="display: flex; align-items: center;">
+    <span class="icon">Softwares :</span>
+    <span>[![My Skills](https://skillicons.dev/icons?i=atom,git,github,ableton)](https://skillicons.dev)</span>
+</div>
 
-- Os :   [![My Skills](https://skillicons.dev/icons?i=linux,bsd,debian,apple,windows)](https://skillicons.dev)
-
+<div style="display: flex; align-items: center;">
+    <span class="icon">Os :</span>
+    <span>[![My Skills](https://skillicons.dev/icons?i=linux,bsd,debian,apple,windows)](https://skillicons.dev)</span>
+</div>
 
 if you like electronic music, here you can listen my works : 
 
@@ -22,6 +30,5 @@ if you like electronic music, here you can listen my works :
 **Spotify** : https://open.spotify.com/intl-it/artist/7iEUImX4VnIQ9laO5IQwyb?si=t642-OtyRNWAvu0uVyfGPw
 
 **Soundcloud** : https://soundcloud.com/mgxy0
-
 
 @mgxy0 
