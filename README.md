@@ -10,15 +10,15 @@ Hi! I'm Marco from Venezia, a little presentation... interested in technology, o
 
 **Languages :**
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,java,js,ruby,py,rust,powershell)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,c,cpp,java,js,ruby,py,powershell,rust)
 
 **Softwares :**
 
-[![My Skills](https://skillicons.dev/icons?i=github,firefox,tor,mastodon,atom,proton,electron,npm,nodejs,ableton)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firefox,tor,github,mastodon,atom,proton,electron,npm,nodejs,ableton)
 
 **Os :**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bsd,debian,apple,windows)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,bsd,debian,apple,windows)
 
 If you like electronic music, here you can listen my works:
 
