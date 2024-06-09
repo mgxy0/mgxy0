@@ -14,7 +14,7 @@ Hi! I'm Marco from Venezia, a little presentation... interested in technology, o
 
 **Softwares :**
 
-[![My Skills](https://skillicons.dev/icons?i=firefox,tor,github,proton,atom,electron,npm,nodejs,ableton,mastodon)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firefox,tor,github,mastodon,proton,atom,electron,npm,nodejs,ableton)](https://skillicons.dev)
 
 **Os :**
 
