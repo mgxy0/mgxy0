@@ -14,7 +14,7 @@ Hi! I'm Marco from Venezia, a little presentation... interested in technology, o
 
 **Softwares :**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,mastodon,chrome,tor,proton,atom,electron,npm,nodejs,ableton,figma,autocad)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,mastodon,chrome,tor,proton,atom,electron,npm,nodejs,ableton,figma,autocad&theme=light))
 
 **Os :**
 
