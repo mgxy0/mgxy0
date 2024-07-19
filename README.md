@@ -14,7 +14,7 @@ Hi! I'm mark1n0 from Venezia, a little presentation... interested in technology,
 
 **Softwares :**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,mastodon,chrome,tor,proton,atom,electron,npm,nodejs,ableton,autocad)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,mastodon,firefox,tor,proton,atom,electron,npm,nodejs,ableton,autocad)
 
 **Operative Systems :**
 
