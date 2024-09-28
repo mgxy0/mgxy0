@@ -10,7 +10,7 @@ Hi! I'm mark1n0 from Venezia, a little presentation... interested in technology,
 
 **Languages :**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,c,cpp,java,js,ruby,py,powershell,rust,asm,html,css)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,c,cpp,js,ruby,py,,rust,asm,)
 
 **Softwares :**
 
